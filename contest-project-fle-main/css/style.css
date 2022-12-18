@@ -1,0 +1,67 @@
+ /* all common css start */
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ .clr{
+    clear: both;
+ }
+ /* a,a:hover{
+ text-decoration: none;   
+ } */
+ ul,ol{
+ list-style-type: none;
+ }
+ .container{
+ width: 1170px;
+ margin: 0 auto;
+ }
+
+ /* all common css end */
+
+ /* video part start */
+ #main{
+    background: url(../images/jpg.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ .overly{
+    height: 500px;
+    background: rgba(0, 0, 0, 0.7);
+ }
+ .text_part h3{
+    font-size: 35px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    text-align: center;
+    padding-top: 100px;
+ }
+ .text_part p{
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+ }
+
+
+
+.icon_part{
+   
+      font-size: 60px;
+      color: #fff;
+      text-align: center;
+      padding-top: 50px;
+}
+
+a {
+	color: #fff;
+}
+
+ /* video part end */
+  /* subscrib part start */
+
+  /* subscrib part end */
